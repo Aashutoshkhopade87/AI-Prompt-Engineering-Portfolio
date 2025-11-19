@@ -1,46 +1,68 @@
-# AI-Prompt-Engineering-Portfolio
-"A professional collection of advanced System Prompts, Chain-of-Thought Logic, and AI Automation workflows for Business &amp; Data Engineering
-# 🤖 AI Prompt Engineering Portfolio
+# 🤖 AI Prompt Engineering & Creative Design Portfolio
 
 ### Hi, I'm Aashutosh Khopade 👋
-**AI Prompt Engineer | System Logic Designer**
+**AI Prompt Engineer | Creative Technologist | UI/UX Designer**
 
-I don't just "chat" with AI. I engineer robust **System Prompts** that bridge the gap between human intent and AI logic. My focus is on creating reliable, production-ready AI workflows for businesses.
+I bridge the gap between **Human Intent** and **AI Execution**. 
+I don't just write prompts; I build **Business Logic**, design **AR Experiences**, and create **AI-Generated Video Content**. My goal is to help brands scale their operations and creative output using AI.
 
 ---
 
 ## 🚀 Core Competencies
-- **Techniques:** Chain-of-Thought (CoT), Few-Shot Prompting, Meta-Prompting.
-- **Logic Design:** System Prompting, Guardrails, Data Extraction (JSON).
-- **Tools:** ChatGPT (OpenAI), Gemini, Claude, Midjourney.
+
+| **Skill Area** | **Tools & Technologies** |
+| :--- | :--- |
+| **AI Logic & Automation** | ChatGPT, Claude, Gemini, System Prompting, Chain-of-Thought |
+| **Creative AI (Video)** | AI Video Gen, HeyGen, RunwayML, Text-to-Video |
+| **AR & Filters** | Lens Studio (Snapchat), Spark AR (Instagram/FB) |
+| **UI/UX Design** | Figma AI, Wireframing, Prompt-to-Design |
 
 ---
 
-## 📂 Featured Projects (Case Studies)
+## 📂 Part 1: AI Logic & Automation (Case Studies)
 
-### 1️⃣ [TechMobile - AI Customer Support Logic](TechMobile_Logic.md)
+### 1️⃣ [Persist Ventures - Viral Content Engine](Persist_Content_Engine.md) ⭐
+> **Objective:** Build an AI workflow to repurpose long-form video transcripts into viral social media posts.
+- **The Logic:** Engineered a **Multi-Output System Prompt** that extracts "Viral Hooks" and generates LinkedIn, Twitter, and Reel scripts instantly.
+
+### 2️⃣ [TechMobile - AI Customer Support Logic](TechMobile_Logic.md)
 > **Objective:** Create a strict AI Chatbot logic for an E-commerce brand.
-- **The Logic:** Engineered a system prompt that strictly enforces a **7-Day Return Policy** by calculating date differences dynamically.
-- **Guardrails:** Implemented security rules to detect and mask sensitive user data (Credit Card numbers).
-- **Outcome:** Reduced invalid return requests and ensured PII safety.
-
-### 2️⃣ [MachBizz - B2B Email Automation Engine](MachBizz_Email.md)
-> **Objective:** Automate personalized cold email generation for a Marketing Agency.
-- **The Logic:** Designed a **Dynamic Variable Prompt** that detects the client's industry (e.g., 'Gym' vs 'Software') and adapts the tone/vocabulary automatically.
-- **Outcome:** Scalable solution to generate 1000+ unique emails with one click.
+- **The Logic:** Engineered a system prompt that strictly enforces a **7-Day Return Policy** and masks sensitive user data (PII) automatically.
 
 ### 3️⃣ [QoreNext - Resume Parser & Data Extractor](QoreNext_Parser.md)
 > **Objective:** Extract structured data from unstructured/messy Resume text files.
-- **The Logic:** Built a Data Extraction Engine that converts raw text into strict **JSON format**.
-- **Advanced Logic:** Included a mathematical rule to automatically calculate "Total Experience Years" based on the Start Year found in the text.
+- **The Logic:** Built a Data Extraction Engine that converts raw text into strict **JSON format** and calculates experience years mathematically.
 
+---
+
+## 🎨 Part 2: Creative AI & Design Capabilities
+
+### 4️⃣ AI-Driven Video Production
+> **Objective:** Create engaging marketing videos using AI tools to reduce production time.
+- **My Process:** I use AI tools to generate scripts, voiceovers, and AI avatars to create high-quality explainer videos and social media reels without a physical camera crew.
+- **Outcome:** Capable of producing scalable video content for marketing campaigns.
+
+### 5️⃣ AR Filter Design (Snapchat & YouTube)
+> **Objective:** Boost brand engagement using interactive Augmented Reality (AR) filters.
+- **My Process:** Designing immersive lenses using **Lens Studio** and **Spark AR** for brand awareness campaigns.
+- **Outcome:** Created interactive filters for Snapchat and YouTube Shorts.
+
+### 6️⃣ AI-Powered UI/UX Design (Figma)
+> **Objective:** Rapid prototyping of websites using AI-assisted design workflows.
+- **My Process:** Utilizing **Figma AI** and prompt-to-design plugins to generate wireframes and UI components instantly based on user requirements.
+- **Outcome:** Speeding up the design lifecycle from concept to high-fidelity prototype.
+
+---
+
+## 🏆 Certifications
+- **Prompt Engineering: How to Talk to the ALs** - *LinkedIn Learning*
 
 ---
 
 ## 📫 Contact Me
-- **Email:** [aashutoshkhopade@gmail.com]
-- **LinkedIn:** [www.linkedin.com/in/aashutoshkhopade]
-- **GitHub:** [github.com/Aashutoshkhopade87]
+- **Email:** [aashutoshkhopade@gmail.com](mailto:aashutoshkhopade@gmail.com)
+- **LinkedIn:** [linkedin.com/in/aashutoshkhopade](https://www.linkedin.com/in/aashutoshkhopade)
+- **GitHub:** [github.com/Aashutoshkhopade87](https://github.com/Aashutoshkhopade87)
 
 ---
-*This portfolio demonstrates my ability to write logic that turns AI models into business tools.*
+*This portfolio demonstrates my ability to combine Logical Engineering with Creative Design.*
