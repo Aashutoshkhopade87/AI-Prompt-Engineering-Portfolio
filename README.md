@@ -34,17 +34,12 @@ I don't just "chat" with AI. I engineer robust **System Prompts** that bridge th
 - **The Logic:** Built a Data Extraction Engine that converts raw text into strict **JSON format**.
 - **Advanced Logic:** Included a mathematical rule to automatically calculate "Total Experience Years" based on the Start Year found in the text.
 
----
-
-## 🏆 Certifications
-- **Prompt Engineering: How to Talk to the ALs** - *LinkedIn Learning*
-  - [View Verified Certificate](link-to-your-certificate-image-or-url)
 
 ---
 
 ## 📫 Contact Me
-- **Email:** [Apna Email Yahan Likhein]
-- **LinkedIn:** [Apna LinkedIn Link Yahan Likhein]
+- **Email:** [AashutoshKhopade]
+- **LinkedIn:** [www.linkedin.com/in/aashutoshkhopade]
 - **GitHub:** [github.com/Aashutoshkhopade87]
 
 ---
