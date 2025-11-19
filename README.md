@@ -38,7 +38,7 @@ I don't just "chat" with AI. I engineer robust **System Prompts** that bridge th
 ---
 
 ## 📫 Contact Me
-- **Email:** [AashutoshKhopade]
+- **Email:** [aashutoshkhopade@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/aashutoshkhopade]
 - **GitHub:** [github.com/Aashutoshkhopade87]
 
