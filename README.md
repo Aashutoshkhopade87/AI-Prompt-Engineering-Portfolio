@@ -1,7 +1,7 @@
 # 🤖 AI Prompt Engineering & Creative Design Portfolio
 
 ### Hi, I'm Aashutosh Khopade 👋
-**AI Prompt Engineer | Creative Technologist | UI/UX Designer**
+**AI Prompt Engineer | Creative Technologist | System Logic Designer**
 
 I bridge the gap between **Human Intent** and **AI Execution**. 
 I don't just write prompts; I build **Business Logic**, design **AR Experiences**, and create **AI-Generated Video Content**. My goal is to help brands scale their operations and creative output using AI.
@@ -33,21 +33,25 @@ I don't just write prompts; I build **Business Logic**, design **AR Experiences*
 > **Objective:** Extract structured data from unstructured/messy Resume text files.
 - **The Logic:** Built a Data Extraction Engine that converts raw text into strict **JSON format** and calculates experience years mathematically.
 
+### 4️⃣ [MachBizz - B2B Email Automation Engine](MachBizz_Email.md)
+> **Objective:** Automate personalized cold email generation for a Marketing Agency.
+- **The Logic:** Designed a **Dynamic Variable Prompt** that detects the client's industry (e.g., 'Gym' vs 'Software') and adapts the tone/vocabulary automatically.
+
 ---
 
 ## 🎨 Part 2: Creative AI & Design Capabilities
 
-### 4️⃣ AI-Driven Video Production
+### 5️⃣ AI-Driven Video Production
 > **Objective:** Create engaging marketing videos using AI tools to reduce production time.
 - **My Process:** I use AI tools to generate scripts, voiceovers, and AI avatars to create high-quality explainer videos and social media reels without a physical camera crew.
 - **Outcome:** Capable of producing scalable video content for marketing campaigns.
 
-### 5️⃣ AR Filter Design (Snapchat & YouTube)
+### 6️⃣ AR Filter Design (Snapchat & YouTube)
 > **Objective:** Boost brand engagement using interactive Augmented Reality (AR) filters.
 - **My Process:** Designing immersive lenses using **Lens Studio** and **Spark AR** for brand awareness campaigns.
 - **Outcome:** Created interactive filters for Snapchat and YouTube Shorts.
 
-### 6️⃣ AI-Powered UI/UX Design (Figma)
+### 7️⃣ AI-Powered UI/UX Design (Figma)
 > **Objective:** Rapid prototyping of websites using AI-assisted design workflows.
 - **My Process:** Utilizing **Figma AI** and prompt-to-design plugins to generate wireframes and UI components instantly based on user requirements.
 - **Outcome:** Speeding up the design lifecycle from concept to high-fidelity prototype.
