@@ -14,6 +14,7 @@ I don't just write prompts; I build **Business Logic**, design **AR Experiences*
 | :--- | :--- |
 | **AI Logic & Automation** | ChatGPT, Claude, Gemini, System Prompting, Chain-of-Thought |
 | **Creative AI (Video)** | AI Video Gen, HeyGen, RunwayML, Text-to-Video |
+| **Workflow Automation** | n8n, Webhooks, API Integration |
 | **AR & Filters** | Lens Studio (Snapchat), Spark AR (Instagram/FB) |
 | **UI/UX Design** | Figma AI, Wireframing, Prompt-to-Design |
 
@@ -36,6 +37,18 @@ I don't just write prompts; I build **Business Logic**, design **AR Experiences*
 ### 4️⃣ [MachBizz - B2B Email Automation Engine](MachBizz_Email.md)
 > **Objective:** Automate personalized cold email generation for a Marketing Agency.
 - **The Logic:** Designed a **Dynamic Variable Prompt** that detects the client's industry (e.g., 'Gym' vs 'Software') and adapts the tone/vocabulary automatically.
+
+---
+
+## ⚡ Bonus Project: Automated Outreach System (n8n)
+
+### 🚀 [AI-Powered Cold Email Workflow (n8n + Gemini + Gmail)](MachBizz_Email.md)
+> **Objective:** Fully automate the process of sending personalized B2B emails without manual effort.
+- **Workflow:** Built a live automation pipeline using **n8n**:
+  1.  **Google Sheets Trigger:** Reads client data (Name, Industry) automatically.
+  2.  **AI Brain (Google Gemini):** Generates a custom email using my System Prompt logic.
+  3.  **Gmail API:** Sends the email instantly.
+- **Outcome:** Capable of sending 1000+ personalized emails in minutes.
 
 ---
 
